@@ -1,0 +1,11 @@
+[package]
+name = "xpans_spe"
+version = "0.1.1"
+edition = "2024"
+description = "Allows for sending and receiving spatial properties of virtual audio sources to and from applications within the xpans Ecosystem."
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/xpans-audio/spe.git"
+authors = ["Ben Seigler"]
+
+[dependencies]
