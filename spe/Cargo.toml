@@ -1,6 +1,6 @@
 [package]
 name = "xpans_spe"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2024"
 description = "Allows for sending and receiving spatial properties of virtual audio sources to and from applications within the xpans Ecosystem."
 readme = "README.md"
