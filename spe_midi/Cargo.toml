@@ -5,6 +5,7 @@ edition = "2024"
 description = "Wraps xpans Spatial Property Exchange (SPE) messages in MIDI"
 readme = "README.md"
 license = "MIT OR Apache-2.0"
+homepage = "https://xpans.audio"
 repository = "https://github.com/xpans-audio/spe.git"
 authors = ["Ben Seigler"]
 
